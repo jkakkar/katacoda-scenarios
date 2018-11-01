@@ -1,0 +1,27 @@
+{
+  "title": "hello-world",
+  "description": "Learn Katacoda",
+  "difficulty" : "beginner",
+  "time" : "2 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1- testing write your run command",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "Hello"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
